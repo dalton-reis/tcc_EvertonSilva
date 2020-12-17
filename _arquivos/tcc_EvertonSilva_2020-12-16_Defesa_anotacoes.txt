@@ -1,0 +1,47 @@
+Everton_defesa
+14:00 - 14:23 -  
+Melhorar o desempenho da câmera ... o processo de reconhecimento
+
+Mauricio ___
+Bem interessante, mas ser bem sincero o texto está confuso.
+Reither, correlato .. IUT, criar a cenas mais completas
+  No incio conceituar o que é o contexto de uma cena .. melhor.
+
+Se preocupar mais com testes das técnicas, do que ir para a aplicação em si.
+Cenário para o TCC, testes.
+
+ArUco, descorrer mais usado como ponto de controle.
+
+Slides não ficou bom, os objetivos específicos.
+Mais conteúdo no capítulo 2 sobre os marcadores.
+
+Dúvida sobre o primeiro correlato, é mesmo um correlato.
+
+Específicação, trazer o menu para os requisitos .. mais itens.
+Não testou no iOS, fez no Android ... sugestões de testar em outras plataformas.
+Testar mais aparelhos, outros aparelhos com outras câmeras .. usar um sensor de iluminação para ter um controle de teste
+
+Diagrama de Classes, rever.
+Figura 11: diagrama de implantação, arrumar a notação
+Diagrama de atividade, ajustes.
+
+Última tela, e as outras .. 
+Trazer mais no inicio o desenhar em papel .. explicar mais, vender mais 
+
+Melhorar a relação das seções 4.2 e 4.3 para seção 4.1
+Trazer mais sobre o uso dos parâmetros de reconhecimento e usar a imagem da câmera do próprio OpenCV e não da Unity
+
+Ter mais testes com desenhos de formas variadas, fatores de busca (simetria, fundo, tipo de cor e lápis de risco), e controle de iluminação.
+E como chegou neste ponto.
+
+Aurélio _____
+Definição conceitual, dilatação -> erosão
+   mostrar que usou a inversão da imagem
+   .. o uso dos algoritmos certo ... mas carece mais testes
+   Shift
+   ter um próprio descritor de forma -> técnicas de aprendizado .. redes de aprendizados
+
+Cor da pele ..
+
+Sugestões: detector de objeto, limiriação
+
