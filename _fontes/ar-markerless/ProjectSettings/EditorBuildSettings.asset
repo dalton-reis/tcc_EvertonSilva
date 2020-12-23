@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ARDinamico/MainMenuScene.unity
+    guid: 60d9ae44d36ba6d4aa1fd53036dfd7cb
+  - enabled: 1
+    path: Assets/MarkerBasedARExample/MarkerBasedARExample.unity
+    guid: 9ca6f59179481a246a6ff5fb6a185e5d
+  - enabled: 1
+    path: Assets/MarkerBasedARExample/ShowLicense.unity
+    guid: 4aac1a9576275d2419459363bb7758c6
+  - enabled: 1
+    path: Assets/MarkerBasedARExample/ShowARMarker.unity
+    guid: 88b71990ccc3bae4aa5e29685ad1692f
+  - enabled: 1
+    path: Assets/MarkerBasedARExample/Texture2DMarkerBasedARExample/Texture2DMarkerBasedARExample.unity
+    guid: 3b33571815be17748acced37af8563f9
+  - enabled: 1
+    path: Assets/MarkerBasedARExample/WebCamTextureMarkerBasedARExample/WebCamTextureMarkerBasedARExample.unity
+    guid: 1255f55469112b948a6518ca82eeb35a
+  - enabled: 1
+    path: Assets/MarkerBasedARExample/GyroSensorMarkerBasedARExample/GyroSensorMarkerBasedARExample.unity
+    guid: 4c9916506ead15540ae41add9390931f
+  - enabled: 1
+    path: Assets/MarkerLessARExample/WebCamTextureMarkerLessARExample/WebCamTextureMarkerLessARExample.unity
+    guid: b32bf9e53e855784ea7a5a45a6705ebf
+  - enabled: 1
+    path: Assets/MarkerLessARExample/CapturePattern.unity
+    guid: 911e1343b9f8f194a96896f82e06ca02
+  - enabled: 1
+    path: Assets/MarkerLessARExample/Texture2DMarkerLessARExample/Texture2DMarkerLessARExample.unity
+    guid: d5519a4b5d052d04ea4554adc0cf19ec
+  - enabled: 1
+    path: Assets/MarkerLessARExample/MarkerLessARExample.unity
+    guid: 05d2d65ee3a60f64b9d4a7a50b33f9ad
+  - enabled: 1
+    path: Assets/MarkerLessARExample/ShowLicense.unity
+    guid: 3ce17cbc6ce81e34894798bd76deb2ec
+  - enabled: 1
+    path: Assets/ARDinamico/ObjectSelect/ObjectSelectMarkerScene.unity
+    guid: dccf1bf32e92f1c4eb81c84272367c80
+  - enabled: 1
+    path: Assets/ARDinamico/ObjectSelect/ObjectSelectMarkerLessScene.unity
+    guid: 8085d628822463b4c966df301e912e21
+  - enabled: 1
+    path: Assets/ARDinamico/ObjectSelect/ObjectListScene.unity
+    guid: 439f111c6086bc74d917adc3f3714277
+  - enabled: 1
+    path: Assets/ARDinamico/ObjectImport_/ObjectImportScene.unity
+    guid: 8f4709008b6225e4d9633bd674f60725
+  - enabled: 1
+    path: Assets/ARDinamico/Drawing/WebCamDrawingScene.unity
+    guid: bc8229d8f1674d3409d1bbd19ce5d282
+  - enabled: 1
+    path: Assets/TriLib/TriLibSamples/AssetViewer/AssetViewer.unity
+    guid: 8a818d2b4ce6c2540a14f595e69acdde
+  - enabled: 1
+    path: Assets/ARDinamico/ObjectImport/ImporterScene.unity
+    guid: 20717248f48eb594ba7193dc114ed80e
+  m_configObjects: {}
